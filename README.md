@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hey there, I'm Samir Kumar Shah!
 
-<!--
-**SamirShah44/SamirShah44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science @ Arkansas State University  
+🧠 Self-taught in C++, Java, DSA | Currently diving into Web Dev & OpenGL Game Engines  
+📍 From Dharan, Nepal 🇳🇵
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+- Languages: `C++`, `Java`, `Python`, `HTML`, `CSS`, `JavaScript`
+- Frameworks: `Django`, `Tailwind CSS`
+- Tools: `Git`, `Linux`, `VS Code`, `Makefile`
+- Game Dev: `OpenGL`, `Assimp`, `Godot`
+- Other: `Data Structures`, `Algorithms`, `Object-Oriented Design`
+
+---
+
+## 🔨 Projects
+
+- 🎮 **3D Shooting Game** *(OpenGL + Assimp)*  
+  Custom engine, instanced rendering, dynamic terrain & asteroid spawning.
+
+- 📊 **Supermarket & Electricity Billing System** *(Java)*  
+  Console-based system with real-time data handling and customer tracking.
+
+- ✨ **Autos CRUD App** *(Django)*  
+  Login, logout, user auth, and full CRUD using CBVs and Bootstrap/Tailwind.
+
+> More projects coming soon — including a card game and a blogging site 👀
+
+---
+
+## 🌱 Currently Working On
+
+- A personal blog using Django  
+- A procedural terrain system in my custom OpenGL engine  
+- Balancing code, tutoring, and chai ☕️
+
+
+> “Stay curious, stay building.”
+

@@ -35,8 +35,8 @@
 
 - A personal blog using Django  
 - A procedural terrain system in my custom OpenGL engine  
-- Balancing code, tutoring, and chai ☕️
+- Balancing code, tutoring, chess, and endless cups of coffee ☕️♟️
 
 
-> “Stay curious, stay building.”
+> “Stay curious. Keep coding. Drink coffee.”
 

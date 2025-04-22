@@ -10,8 +10,8 @@
 
 - Languages: `C++`, `Java`, `Python`, `HTML`, `CSS`, `JavaScript`
 - Frameworks: `Django`, `Tailwind CSS`
-- Tools: `Git`, `Linux`, `VS Code`, `Makefile`
-- Game Dev: `OpenGL`, `Assimp`, `Godot`
+- Tools: `Git`, `Linux`, `Makefile`
+- Game Dev: `OpenGL`, `Assimp`, `Godot` , `SFML`
 - Other: `Data Structures`, `Algorithms`, `Object-Oriented Design`
 
 ---

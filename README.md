@@ -1,12 +1,12 @@
 # 👋 Hey there, I'm Samir Kumar Shah!
 
-🎓 Computer Science @ Arkansas State University  
+🎓 Computer Science Junior year @ Arkansas State University(Expected Graduation May 2027)  
 🧠 Self-taught in C++, Java, DSA | Currently diving into Web Dev & OpenGL Game Engines  
 📍 From Dharan, Nepal 🇳🇵
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - Languages: `C++`, `Java`, `Python`, `HTML`, `CSS`, `JavaScript`
 - Frameworks: `Django`, `Tailwind CSS`

@@ -15,7 +15,7 @@ Originally from Dharan, Nepal.
 
 ## Featured Projects
 
-### Published Mobile Game
+### Exile Crusade
 
 `Godot` `GDScript` `Mobile Development`
 
@@ -38,8 +38,7 @@ balancing, UI, mobile optimization, and deployment.
 My personal website and development hub where I showcase projects,
 experiments, games, and other work.
 
-Built and deployed as my own space on the web rather than relying
-entirely on third-party portfolio platforms.
+Built and deployed as my own space on the web.
 
 ---
 
